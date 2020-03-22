@@ -4,7 +4,7 @@
 The dataset contains 10,547 tweets, 1,682 (16\%) of which are sarcastic.
 
 ## Dataset details:
-**ArSarcasm** is provided in a csv file, we provide a train and test splits to keep things consistentent for future comparisons. We used and 80/20 split. The training set contains 8,437 tweets, while the test set contains 2,110 tweets.
+**ArSarcasm** is provided in a csv file, we provide an 80/20 train/test split to keep things consistentent for future comparisons. The training set contains 8,437 tweets, while the test set contains 2,110 tweets.
 
 The dataset contains the follwoing feilds:
 * `tweet`: the original tweet in text surrounded by qoutes (").
@@ -20,7 +20,7 @@ The dataset contains the follwoing feilds:
   * `magreb`: the north African Arabc countries including Algeria, Libya, Tunisia and Morocco.
 
 
-##Citation
+## Citation
 Please used the follwing citation if you use ArSarcasm:
 ```
 @inproceedings{abu-farha-magdy-2020-arsarcasm, 
