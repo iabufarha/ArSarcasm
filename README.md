@@ -34,3 +34,8 @@ booktitle = "Proceedings of the 4th Workshop on Open-Source Arabic Corpora and P
 publisher = "European Language Resources Association (ELRA)", }
 
 ```
+
+## Other resources
+If you are interested in other Arabic NLP resources check:
+* [Mazajak Sentiment Analyser](http://mazajak.inf.ed.ac.uk:8000)
+* [Mazajak Word Embeddings](http://mazajak.inf.ed.ac.uk:8000/#embedding-page)
