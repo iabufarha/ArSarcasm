@@ -11,6 +11,7 @@ year= "2020",
 month= "5",
 day= "12",
 language= "English",  
-booktitle = "Proceedings of the 4th Workshop on Open-Source Arabic Corpora and Processing Tools (OSACT)",  publisher = "European Language Resources Association (ELRA)", }
+booktitle = "Proceedings of the 4th Workshop on Open-Source Arabic Corpora and Processing Tools (OSACT)", 
+publisher = "European Language Resources Association (ELRA)", }
 
 ```
