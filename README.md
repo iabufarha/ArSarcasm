@@ -1,7 +1,7 @@
 # ArSarcasm Dataset
 
 **ArSarcasm** is a new Arabic sarcasm detection dataset. The dataset was created using previously available Arabic sentiment analaysis datasets ([SemEval 2017](https://www.aclweb.org/anthology/S17-2088.pdf) and [ASTD](https://www.aclweb.org/anthology/D15-1299.pdf)) and adds sarcasm and dialect labels to them.
-The dataset contains 10,547 tweets, 1,682 (16\%) of which are sarcastic.
+The dataset contains 10,547 tweets, 1,682 (16\%) of which are sarcastic. For more details, please check our paper [From Arabic Sentiment Analysis to Sarcasm Detection: The ArSarcasm Dataset]()
 
 ## Dataset details:
 **ArSarcasm** is provided in a csv file, we provide an 80/20 train/test split to keep things consistentent for future comparisons. The training set contains 8,437 tweets, while the test set contains 2,110 tweets.
