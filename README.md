@@ -20,6 +20,8 @@ The dataset contains the follwoing feilds:
   * `magreb`: the north African Arabc countries including Algeria, Libya, Tunisia and Morocco.
 
 
+##Citation
+Please used the follwing citation if you use ArSarcasm:
 ```
 @inproceedings{abu-farha-magdy-2020-arsarcasm, 
 title = "From Arabic Sentiment Analysis to Sarcasm Detection: The ArSarcasm Dataset",
