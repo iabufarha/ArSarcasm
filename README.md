@@ -3,6 +3,9 @@
 **ArSarcasm** is a new Arabic sarcasm detection dataset. The dataset was created using previously available Arabic sentiment analaysis datasets and adds sarcasm and dialect labels to them.
 The dataset contains 10,547 tweets, 1,682 (16\%) of which are sarcastic.
 
+## Dataset details:
+**ArSarcasm** is provided in a csv file, we provide a train and test splits to keep things consistentent for future comparisons. We used and 80/20 split. The training set contains 8,437 tweets, while the test set contains 2,110 tweets.
+
 The dataset contains the follwoing feilds:
 * `tweet`: the original tweet in text surrounded by qoutes (").
 * `sarcasm`: boolean the indicates whether a tweet is sarcastic or not.
@@ -16,10 +19,11 @@ The dataset contains the follwoing feilds:
   * `gulf`: the Guld countries including Sauidi Arabia, UAE, Qatar, Bahrain, Yemen, Oman, Iraq and Kuawait.
   * `magreb`: the north African Arabc countries including Algeria, Libya, Tunisia and Morocco.
 
+
 ```
 @inproceedings{abu-farha-magdy-2020-arsarcasm, 
 title = "From Arabic Sentiment Analysis to Sarcasm Detection: The ArSarcasm Dataset",
-author= "Ibrahim, {Abu-Farha} and Walid Magdy",  
+author= "Abu-Farha, Ibrahim  and Walid Magdy",  
 year= "2020",
 month= "5",
 day= "12",
