@@ -27,8 +27,6 @@ Please use the follwing citation if you use ArSarcasm:
 title = "From Arabic Sentiment Analysis to Sarcasm Detection: The ArSarcasm Dataset",
 author= "Abu-Farha, Ibrahim  and Walid Magdy",  
 year= "2020",
-month= "5",
-day= "12",
 language= "English",  
 booktitle = "Proceedings of the 4th Workshop on Open-Source Arabic Corpora and Processing Tools (OSACT)", 
 publisher = "European Language Resources Association (ELRA)", }
