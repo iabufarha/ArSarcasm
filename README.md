@@ -21,7 +21,7 @@ The dataset contains the following fields:
 
 
 ## Citation
-Please use the follwing citation if you use ArSarcasm:
+Please use the following citation if you use ArSarcasm:
 ```
 @inproceedings{abu-farha-magdy-2020-arabic,
     title = "From {A}rabic Sentiment Analysis to Sarcasm Detection: The {A}r{S}arcasm Dataset",
