@@ -8,7 +8,7 @@ The dataset contains 10,547 tweets, 1,682 (16\%) of which are sarcastic. For mor
 
 The dataset contains the following fields:
 * `tweet`: the original tweet text surrounded by quotes (").
-* `sarcasm`: boolean the indicates whether a tweet is sarcastic or not.
+* `sarcasm`: boolean that indicates whether a tweet is sarcastic or not.
 * `sentiment`: the sentiment from the new annotation (positive, negative, neutral).
 * `original_sentiment`: the sentiment in the original annotations (positive, negative, neutral).
 * `source`: the original source of tweet SemEval or ASTD.
